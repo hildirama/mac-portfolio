@@ -12,6 +12,7 @@ const Image = () => {
     if (!data) return null;
 
     const {name, imageUrl} = data;
+    const testaja = "dsf"
 
     return (
         <>
